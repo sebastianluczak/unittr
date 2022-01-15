@@ -16,7 +16,7 @@ You can't even imagine how many times I've accounted time for wrong client...
 I'm in desperate need of a universal tool to "to bring them all and in the darkness bind them" in terms of Time and Task trackers.
 So... Shall I make one?
 
-![star_project](https://img.shields.io/github/stars/sebastianluczak/unittr?label=Star%20this%20project&style=for-the-badge)
+[![star_project](https://img.shields.io/github/stars/sebastianluczak/unittr?label=Star%20this%20project&style=for-the-badge)](https://github.com/sebastianluczak/unittr)
 
 ## Goals:
 - Universal Time Tracker
