@@ -24,6 +24,7 @@ So... Shall I make one?
 - Be able to integrate back and forth with time trackers (Toggl, Harvest)
 - Be able to integrate back with task trackers (Jira, Trello etc.)
 - Common CLI interface (powerfull yet easy as hell to use)
+- IDE integration ?
 - Able to connect to API
 - Some simple web interface ?
 - self hosted (free, docker provided) or in cloud (in future, paid option?)
