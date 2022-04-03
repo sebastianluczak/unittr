@@ -100,8 +100,12 @@ Please wait...
 - php-roguelike will be affected negativaly
 - zero to none audience interested in this kind of solution
 
-### Plans for Threads
+# PoC
 
+PoC has been created and is currently under heavy testing. Clockify and JIRA Worklog integration are working seemlesly and closely to examples listed above.
+Development is concentrated around one private repository because at this moment it's implementation is strictly tied to accounts and processes within my organization.
+
+As soon as I derive functionality and hide it under interfaces I'll share it publicly as an unittr open source project.
 ```
 todo
 ```
