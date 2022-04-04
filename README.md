@@ -2,6 +2,9 @@
 
 ![unittr_logo](https://user-images.githubusercontent.com/1628839/149616114-012681cf-4df3-4223-be03-e41ed0b95335.png)
 
+Project progress: ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/10)
+Project status: full development focus
+
 ## Why
 
 In past 7 years of my profesional life companies I've worked with forced me to use Time Tracking software
