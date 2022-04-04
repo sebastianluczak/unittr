@@ -18,6 +18,10 @@ So... Shall I make one?
 
 [![star_project](https://img.shields.io/github/stars/sebastianluczak/unittr?label=Star%20this%20project&style=for-the-badge)](https://github.com/sebastianluczak/unittr)
 
+## Idea
+
+![unittr_logo](unittr_idea.png)
+
 ## Goals:
 - Universal Time Tracker
 - Be able to track time using same tool with any platform
