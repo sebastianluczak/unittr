@@ -2,7 +2,7 @@
 
 ![unittr_logo](https://user-images.githubusercontent.com/1628839/149616114-012681cf-4df3-4223-be03-e41ed0b95335.png)
 
-**Project progress:** ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/10)
+**Project progress:** ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/23)
 
 **Project status:** full focus on development PoC stable version
 
